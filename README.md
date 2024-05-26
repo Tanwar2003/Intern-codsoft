@@ -5,7 +5,6 @@ Author-Tanishka Tanwar
 <br>
 There are five tasks in the project:
 1. A To-Do list , having various features like adding tasks, deleting tasks, updating tasks, etc.
-<br>
 2. A Calculator , for simple arithmetic calculations like add, subtract, divide, etc.
 <br>
 3. a Password generator, it gives a random password suggestion to the user.
